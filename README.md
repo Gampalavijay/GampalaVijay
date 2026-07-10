@@ -180,3 +180,8 @@ Interactive browser game built using HTML, CSS and JavaScript.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Gampalavijay/Gampalavijay/output/github-contribution-grid-snake-dark.svg" />
+</p>
